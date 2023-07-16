@@ -15,8 +15,8 @@ main:
   - title: "Paper Digests"
     url: /paper-digests/
 
-  - title: "Curriculum Vitae"
-    url: /cv/
+  # - title: "Curriculum Vitae"
+  #   url: /cv/
 
   # - title: "Guide"
   #   url: /markdown/
